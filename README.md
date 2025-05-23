@@ -18,12 +18,11 @@
 ## Dashboard Interaction 
 <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/dashbroad.png">Dashboard</a>
 ## Process
- Data Import
+ 1. Data Import
 
 Import the sales dataset from a .csv or .xlsx file
 
 Verify headers and data types
-
 
 2. Data Cleaning
 
@@ -35,7 +34,6 @@ Standardize entries (e.g., region names, product names)
 
 Convert date columns to proper date format
 
-
 3. Data Transformation
 
 Add calculated fields (e.g., Total Revenue = Units Sold * Unit Price)
@@ -45,8 +43,6 @@ Create helper columns for Month and Year using:
 =TEXT([@Date], "MMMM")
 
 =YEAR([@Date])
-
-
 
 4. Data Analysis
 
@@ -58,9 +54,7 @@ Monthly sales trends
 
 Product-wise performance
 
-
 Generate PivotCharts (column, line, pie) from PivotTables
-
 
 5. Dashboard Creation
 
