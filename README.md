@@ -1,2 +1,9 @@
-# Data-Analysis-Dashboard-On-annual-store-report-
-I develop and complete end-to-end data analytics project built in Microsoft Excel — from raw sales data to a fully interactive dashboard. This project demonstrates data cleaning, data transformation, data  analysis, and data dynamic visualization. Perfect for students, analysts, and Excel enthusiasts looking to enhance their practical skills.
+# Data-Analysis-Dashboard (On-annual-store-report Using MS excel)
+## Project Objectives
+Import and understand raw sales data
+Clean and prepare the dataset for analysis
+Transform data using Excel formulas and calculated fields
+Analyze trends and summaries using PivotTables and charts
+Build a dynamic, interactive dashboard for visual storytelling
+Strengthen practical Excel skills in a real-world scenario
+Present insights in a professional and user-friendly format
