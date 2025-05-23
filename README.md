@@ -76,7 +76,7 @@ Percentage of Total Orders delivered.
 
    Product-wise performance
 
-  ## Generate PivotCharts (column, line, pie) from PivotTables
+   Generate PivotCharts (column, line, pie) from PivotTables
 
 5. Dashboard Creation
 
