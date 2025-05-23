@@ -17,8 +17,6 @@
  <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
 ## Dashboard Interaction 
 <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/dashbroad.png">Dashboard</a>
-## Dashboard View
-![dashbroad](https://github.com/user-attachments/assets/b424ad4c-71dd-4c92-92e1-f028f9c2cb15)
 
 ## KPI Questions for the Excel Dashboard Project
 
@@ -39,6 +37,8 @@ Which Channel is contributing maximum to the sales?
 Highest selling category?
 
 Percentage of Total Orders delivered
+## Dashboard View
+![dashbroad](https://github.com/user-attachments/assets/b424ad4c-71dd-4c92-92e1-f028f9c2cb15)
 
 ## Process
  1. Data Import
@@ -52,10 +52,6 @@ Verify headers and data types
 Remove duplicates
 
 Handle missing or inconsistent data
-
-Standardize entries (e.g., region names, product names)
-
-Convert date columns to proper date format
 
 3. Data Transformation
 
@@ -95,6 +91,4 @@ Apply formatting for a clean, professional layout
 
 Test interactivity of the dashboard
 
-Ensure accuracy of calculations and visualizations
-
-Save and export the final project file. 
+Ensure accuracy of calculations and visualizations 
