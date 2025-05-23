@@ -38,7 +38,7 @@ Which Channel is contributing maximum to the sales?
 
 Highest selling category?
 
-Percentage of Total Orders delivered
+Percentage of Total Orders delivered.
 
 ## Dashboard View
 ![dashboard](https://github.com/user-attachments/assets/af5ce85b-f6e8-40ac-ba15-35cde5865f0a)
@@ -68,13 +68,13 @@ Percentage of Total Orders delivered
 
 4. Data Analysis
 
-  Create PivotTables for:
+   Create PivotTables for:
 
-  Total sales by region
+   Total sales by region
 
-  Monthly sales trends
+   Monthly sales trends
 
-  Product-wise performance
+   Product-wise performance
 
   ## Generate PivotCharts (column, line, pie) from PivotTables
 
