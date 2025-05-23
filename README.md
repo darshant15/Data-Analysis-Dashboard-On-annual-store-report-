@@ -13,6 +13,7 @@
 -Strengthen practical Excel skills in a real-world scenario.
 
 -Present insights in a professional and user-friendly format.
+
 ## Dataset Used 
  <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
  
@@ -45,55 +46,55 @@ Percentage of Total Orders delivered
 ## Process
  1. Data Import
 
-Import the sales dataset from a .csv or .xlsx file
+   Import the sales dataset from a .csv or .xlsx file.
 
-Verify headers and data types
+   Verify headers and data types.
 
 2. Data Cleaning
 
-Remove duplicates
+   Remove duplicates.
 
-Handle missing or inconsistent data
+   Handle missing or inconsistent data.
 
 3. Data Transformation
 
-Add calculated fields (e.g., Total Revenue = Units Sold * Unit Price)
+   Add calculated fields (e.g., Total Revenue = Units Sold * Unit Price)
 
-Create helper columns for Month and Year using:
+   Create helper columns for Month and Year using:
 
-=TEXT([@Date], "MMMM")
+   =TEXT([@Date], "MMMM")
 
-=YEAR([@Date])
+   =YEAR([@Date])
 
 4. Data Analysis
 
-Create PivotTables for:
+  Create PivotTables for:
 
-Total sales by region
+  Total sales by region
 
-Monthly sales trends
+  Monthly sales trends
 
-Product-wise performance
+  Product-wise performance
 
-Generate PivotCharts (column, line, pie) from PivotTables
+  ## Generate PivotCharts (column, line, pie) from PivotTables
 
 5. Dashboard Creation
 
-Design a new sheet named “Dashboard”
+   Design a new sheet named “Dashboard”
 
-Add key performance indicators (KPIs) like total revenue, monthly sales, etc.
+   Add key performance indicators (KPIs) like total revenue, monthly sales, etc.
 
-Insert dynamic charts linked to PivotTables
+   Insert dynamic charts linked to PivotTables
 
-Use slicers for filtering data by region, year, or product
+   Use slicers for filtering data by region, year, or product
 
-Apply formatting for a clean, professional layout
+   Apply formatting for a clean, professional layout
 
 6. Review & Final Touches
 
-Test interactivity of the dashboard
+   Test interactivity of the dashboard
 
-Ensure accuracy of calculations and visualizations 
+   Ensure accuracy of calculations and visualizations 
 
 ## Project Insight  
 
