@@ -15,6 +15,7 @@
 -Present insights in a professional and user-friendly format.
 ## Dataset Used 
  <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
+ 
 ## Dashboard Interaction 
 <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/dashboard.jpeg">Dashboard</a>
 
@@ -94,7 +95,7 @@ Test interactivity of the dashboard
 
 Ensure accuracy of calculations and visualizations 
 
-## Final conclusion to improve Store sales 
+## Project Insight  
 
 1. Women are more likely to buy comapred to men (65%) 
 
@@ -104,4 +105,6 @@ Ensure accuracy of calculations and visualizations
 
 4. Amazon,flipkart and Myntra channels are max contributing (-80%)
 
+# Final conclusion to improve Store sales
+   
 ## Target Women customers of age group 30-49yr living In Maharashtra karanataka and UP by showing ads/offers/coupons availabe on Amazon flipkarft Ajio and Myntra.
