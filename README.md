@@ -7,3 +7,5 @@ Analyze trends and summaries using PivotTables and charts
 Build a dynamic, interactive dashboard for visual storytelling
 Strengthen practical Excel skills in a real-world scenario
 Present insights in a professional and user-friendly format
+## dataset Used 
+ <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
