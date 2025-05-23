@@ -17,6 +17,29 @@
  <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
 ## Dashboard Interaction 
 <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/dashbroad.png">Dashboard</a>
+
+## KPI Questions for the Excel Dashboard Project
+
+1. What is the total revenue generated over the selected period?
+
+2. Which region has the highest total sales?
+
+3. Which product category performs best in terms of revenue?
+
+4. Who are the top-performing salespersons by total revenue?
+
+5. What are the monthly sales trends over time?
+
+6. How do sales compare across different regions?
+
+7. What is the average revenue per unit sold?
+
+8. What are the top 5 products by sales volume or revenue?
+
+9. How does revenue distribution look across different months or quarters?
+
+10. What is the growth rate or trend in monthly or quarterly sales?
+
 ## Process
  1. Data Import
 
