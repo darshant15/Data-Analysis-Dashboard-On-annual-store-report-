@@ -46,9 +46,9 @@ Percentage of Total Orders delivered.
 ## Process
  1. Data Import
 
-   Import the sales dataset from a .csv or .xlsx file.
+    Import the sales dataset from a .csv or .xlsx file.
 
-   Verify headers and data types.
+    Verify headers and data types.
 
 2. Data Cleaning
 
