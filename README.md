@@ -62,4 +62,16 @@ Design a new sheet named “Dashboard”
 
 Add key performance indicators (KPIs) like total revenue, monthly sales, etc.
 
-Insert dynamic charts linked to
+Insert dynamic charts linked to PivotTables
+
+Use slicers for filtering data by region, year, or product
+
+Apply formatting for a clean, professional layout
+
+6. Review & Final Touches
+
+Test interactivity of the dashboard
+
+Ensure accuracy of calculations and visualizations
+
+Save and export the final project file. 
