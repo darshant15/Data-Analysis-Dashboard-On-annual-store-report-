@@ -17,30 +17,28 @@
  <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
 ## Dashboard Interaction 
 <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/dashbroad.png">Dashboard</a>
-## Dashboard 
-
+## Dashboard View
+![dashbroad](https://github.com/user-attachments/assets/b424ad4c-71dd-4c92-92e1-f028f9c2cb15)
 
 ## KPI Questions for the Excel Dashboard Project
 
-1. What is the total revenue generated over the selected period?
+Compare the sales and orders using single chart.
 
-2. Which region has the highest total sales?
+Which month got the highest sales and orders?
 
-3. Which product category performs best in terms of revenue?
+Who purchased more - Men or Women?
 
-4. Who are the top-performing salespersons by total revenue?
+What are different order status in 2022?
 
-5. What are the monthly sales trends over time?
+List top 10 states contributingto the sales?
 
-6. How do sales compare across different regions?
+Relation between age and gender based on number of orders.
 
-7. What is the average revenue per unit sold?
+Which Channel is contributing maximum to the sales?
 
-8. What are the top 5 products by sales volume or revenue?
+Highest selling category?
 
-9. How does revenue distribution look across different months or quarters?
-
-10. What is the growth rate or trend in monthly or quarterly sales?
+Percentage of Total Orders delivered
 
 ## Process
  1. Data Import
