@@ -92,3 +92,15 @@ Apply formatting for a clean, professional layout
 Test interactivity of the dashboard
 
 Ensure accuracy of calculations and visualizations 
+
+## Final conclusion to improve Store sales 
+
+1.women are more likely to buy comapred to men (65%) 
+
+2.Maharashtra,Karnatka,and UP are the top3 states (35%)
+
+3.Adult aggroup(30-49yrs) is max contributing (-50%)
+
+4. Amazon,flipkart and Myntra channels are max contributing (-80%)
+
+## Target Women customers of age group 30-49yr living In Maharashtra karanataka and UP by showing ads/offers/coupons availabe on Amazon flipkarft Ajio and Myntra
