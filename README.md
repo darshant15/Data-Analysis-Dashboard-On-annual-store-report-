@@ -16,7 +16,7 @@
 ## Dataset Used 
  <a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
 ## Dashboard Interaction 
-<a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/dashbroad.png">Dashboard</a>
+<a href="https://github.com/darshant15/Data-Analysis-Dashboard-On-annual-store-report-/blob/main/dashboard.jpeg">Dashboard</a>
 
 ## KPI Questions for the Excel Dashboard Project
 
@@ -38,7 +38,7 @@ Highest selling category?
 
 Percentage of Total Orders delivered
 ## Dashboard View
-![dashbroad](https://github.com/user-attachments/assets/b424ad4c-71dd-4c92-92e1-f028f9c2cb15)
+![dashboard](https://github.com/user-attachments/assets/af5ce85b-f6e8-40ac-ba15-35cde5865f0a)
 
 ## Process
  1. Data Import
